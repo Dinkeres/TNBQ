@@ -1,0 +1,7 @@
+{"sessionId":"70428c","runId":"pre-fix","hypothesisId":"H2","location":"server/js/index.ts:getConfigFile","message":"Starting main with config","data":{"port":8000,"nb_worlds":1},"timestamp":1772011232899}
+{"sessionId":"70428c","runId":"pre-fix","hypothesisId":"H2","location":"server/js/index.ts:getConfigFile","message":"Starting main with config","data":{"port":8000,"nb_worlds":1},"timestamp":1772011251131}
+{"sessionId":"70428c","runId":"pre-fix","hypothesisId":"H2","location":"server/js/index.ts:getConfigFile","message":"Starting main with config","data":{"port":8000,"nb_worlds":1},"timestamp":1772011263305}
+{"sessionId":"70428c","runId":"pre-fix","hypothesisId":"H1","location":"server/js/ws.ts:connection","message":"Socket connection established","data":{"handshakeAddress":"::1"},"timestamp":1772011286805}
+{"sessionId":"70428c","runId":"pre-fix","hypothesisId":"H2","location":"server/js/index.ts:getConfigFile","message":"Starting main with config","data":{"port":8000,"nb_worlds":1},"timestamp":1772011638702}
+{"sessionId":"70428c","runId":"pre-fix","hypothesisId":"H1","location":"server/js/ws.ts:connection","message":"Socket connection established","data":{"handshakeAddress":"::1"},"timestamp":1772011691254}
+{"sessionId":"70428c","runId":"pre-fix","hypothesisId":"H1","location":"server/js/ws.ts:connection","message":"Socket connection established","data":{"handshakeAddress":"::1"},"timestamp":1772011765968}
