@@ -1475,7 +1475,7 @@ var Items = {
     }
   },
 
-  ScrollTransmuteBlessed: class ScrollTransmute extends Item {
+  ScrollTransmuteBlessed: class ScrollTransmuteBlessed extends Item {
     constructor(id) {
       super(id, Types.Entities.SCROLLTRANSMUTEBLESSED, "scroll");
       this.lootMessage = "You pick up a blessed transmute scroll";
