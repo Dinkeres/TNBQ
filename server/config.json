@@ -7,10 +7,10 @@
     "metrics_enabled": true,
     "use_one_port": true,
     "redis_port": 6379,
-    "prod_redis_port":6380,
+    "prod_redis_port": 6380,
     "redis_host": "localhost",
     "game_servers": [{"server": "localhost", "name": "localhost"}],
-    "server_name" : "localhost",
+    "server_name": "localhost",
     "production": "",
     "database": "redis"
 }
